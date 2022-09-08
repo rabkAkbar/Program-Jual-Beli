@@ -1,0 +1,22 @@
+[
+    {
+        "harga": 10,
+        "Tipe Handphone": "1",
+        "stok": 0
+    },
+    {
+        "harga": 1,
+        "Tipe Handphone": "1",
+        "stok": 0
+    },
+    {
+        "harga": 999,
+        "Tipe Handphone": "uy",
+        "stok": -8
+    },
+    {
+        "harga": 2000,
+        "Tipe Handphone": "sad",
+        "stok": -20
+    }
+]

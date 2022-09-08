@@ -1,0 +1,92 @@
+[
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "1",
+        "kuantitas": 2,
+        "total_harga": "Rp. 2"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "1",
+        "kuantitas": 2,
+        "total_harga": "Rp. 2"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "11",
+        "kuantitas": 1,
+        "total_harga": "Rp. 11"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "22",
+        "kuantitas": 1,
+        "total_harga": "Rp. 22"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "11",
+        "kuantitas": 1,
+        "total_harga": "Rp. 11"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "11",
+        "kuantitas": 1,
+        "total_harga": "Rp. 11"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "1",
+        "kuantitas": 1,
+        "total_harga": "Rp. 1"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "1",
+        "kuantitas": 1,
+        "total_harga": "Rp. 1"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "1",
+        "kuantitas": 1,
+        "total_harga": "Rp. 1"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "11",
+        "kuantitas": 8,
+        "total_harga": "Rp. 88"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "11",
+        "kuantitas": 1,
+        "total_harga": "Rp. 11"
+    },
+    {
+        "nama_pembeli": "akbar",
+        "tipe_smartphone": "1",
+        "kuantitas": 50,
+        "total_harga": "Rp. 500"
+    },
+    {
+        "nama_pembeli": "akbar",
+        "tipe_smartphone": "1",
+        "kuantitas": 50,
+        "total_harga": "Rp. 50"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "sad",
+        "kuantitas": 20,
+        "total_harga": "Rp. 40000"
+    },
+    {
+        "nama_pembeli": "aji",
+        "tipe_smartphone": "uy",
+        "kuantitas": 8,
+        "total_harga": "Rp. 7992"
+    }
+]

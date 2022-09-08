@@ -1,0 +1,27 @@
+[
+   {
+      "username": "admin",
+      "password": "admin",
+      "permission": true
+   },
+   {
+      "username": "aji",
+      "password": "aji",
+      "permission": false
+   },
+   {
+      "username": "nela",
+      "password": "nela",
+      "permission": false
+   },
+   {
+      "username": "akbar",
+      "password": "akbar",
+      "permission": false
+   },
+   {
+      "username": "pia",
+      "password": "pia",
+      "permission": false
+   }
+]
